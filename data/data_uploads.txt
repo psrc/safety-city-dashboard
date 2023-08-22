@@ -1,0 +1,3 @@
+Data for the dashboard is created with the scripts in the "pre-process" directory. 
+The rds files are not pushed to GitHub
+
